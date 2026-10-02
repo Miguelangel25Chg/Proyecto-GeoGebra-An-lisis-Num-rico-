@@ -13,3 +13,6 @@ Se muestra la animación del método https://www.geogebra.org/m/jgthrzaj
 
 ## Cuadratura Gaussiana
 Se muestra la construcción de la cuadratura Gaussiana para análisis numérico con base en plonomios de Legendre e interpolación de Lagrange https://www.geogebra.org/m/rm3axs8k
+
+## Método de Montecarlo
+La presente es una animación donde se ilustra el método de Montecarlo https://www.geogebra.org/m/brtdcqnq
