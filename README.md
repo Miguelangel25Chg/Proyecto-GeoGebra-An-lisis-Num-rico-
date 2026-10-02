@@ -10,3 +10,6 @@ Aquí con poligonal de Euler https://www.geogebra.org/m/vdvphttn
 
 ## Método de Adams - Moulton 2 
 Se muestra la animación del método https://www.geogebra.org/m/jgthrzaj
+
+## Cuadratura Gaussiana
+Se muestra la construcción de la cuadratura Gaussiana para análisis numérico con base en plonomios de Legendre e interpolación de Lagrange https://www.geogebra.org/m/rm3axs8k
